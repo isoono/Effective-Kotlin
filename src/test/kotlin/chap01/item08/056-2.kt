@@ -1,4 +1,4 @@
-package item08
+package chap01.item08
 
 import io.mockk.mockk
 import org.junit.jupiter.api.BeforeEach
